@@ -1,0 +1,21 @@
+html {
+  box-sizing: border-box;
+  height: 100%;
+}
+
+body {
+  height: inherit;
+  margin: 0;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body,
+input {
+  font: menu;
+  user-select: none;
+}
