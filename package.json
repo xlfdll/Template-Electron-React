@@ -1,5 +1,6 @@
 {
   "name": "this-is-my-app",
+  "productName": "This is My App!",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
