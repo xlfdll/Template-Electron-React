@@ -1,0 +1,10 @@
+.FlatButton {
+  /* border: none; */
+  padding: 5px;
+  min-width: 50px;
+  min-height: 32px;
+  /* Center text with icon */
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
